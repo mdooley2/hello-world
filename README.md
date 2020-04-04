@@ -1,2 +1,3 @@
 # hello-world
 my initial repository
+This is turning out to be educational. I've never gone into a GitHub exercise before but feel foolish at having not done so. So this could be a turning point of some sort. We'll see...
